@@ -183,8 +183,6 @@
   </tr>
 </table>
 
-<br>
-
 <p align="center">
 ✨ <i>Learning • Building • Evolving</i> ✨
 </p>
