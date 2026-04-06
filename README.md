@@ -1,7 +1,7 @@
 <!-- 🔥 FUTURISTIC MINIMAL HEADER -->
 
 <p align="center">
-  <img src="HEADER.png?type=cylinder&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=MOHAMED%20RIZWAN&fontSize=38&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://raw.githubusercontent.com/mohamedrizwan4518/mohamedrizwan4518/main/HEADER.png" width="100%" />
 </p>
 
 <!-- ⚡ UNIQUE TYPING STYLE -->
