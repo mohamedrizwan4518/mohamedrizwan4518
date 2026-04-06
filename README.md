@@ -26,7 +26,7 @@
 <table align="center" width="100%">
 <tr>
 
-<!-- 🔥 LEFT SIDE (MODERN CARD STYLE) -->
+<!-- 🔥 LEFT SIDE (PREMIUM CARD STYLE) -->
 
 <td width="55%" valign="top">
 
@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=300"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=320"/>
 </p>
 
 <p>
@@ -57,18 +57,26 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=220"/>
+</p>
+
+<p align="center">
 💡 <i>Turning Ideas into Intelligent Reality</i>
 </p>
 
 </td>
 
-<!-- 🔥 RIGHT SIDE (UPGRADED VISUAL STYLE) -->
+<!-- 🔥 RIGHT SIDE (ANIMATED + GLOW STYLE) -->
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
 <br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-ENGINE-ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
+</p>
 
 <p align="center">
 🚀 <b>Building Intelligent Systems</b><br>
@@ -79,6 +87,7 @@
 
 </tr>
 </table>
+
 
 
 ## 🧠 CORE SKILLS
