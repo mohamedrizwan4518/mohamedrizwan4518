@@ -26,10 +26,9 @@
 <tr>
 
 <!-- 🔥 LEFT SIDE -->
-
 <td width="55%" valign="top">
 
-<h1>🚀 MOHAMED RIZWAN</h1>
+<h1 align=center>🚀 MOHAMED RIZWAN</h1>
 
 <h3 align=center>🧠 AI & Data Science Innovator</h3>
 
