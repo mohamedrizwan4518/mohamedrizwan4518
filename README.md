@@ -76,7 +76,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1200&pause=300&color=00F7FF&center=true&vCenter=true&width=600&lines=🧠+🤖+💻+🌐+📊+⚡+🚀+🛰️" />
 </p>
-
+<br>
 <p align="center">
 ✨ <i>Learning • Building • Evolving</i> ✨
 </p>
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-💡 <b>Turning Ideas into Intelligent Reality</b>
+💡 <b><i>Turning Ideas into Intelligent Reality</i>i></b>
 </p>
 
 </td>
