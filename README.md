@@ -100,8 +100,6 @@
 ✨ Technologies I Use to Build Smart Solutions ✨
 </p>
 
-<br>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -109,7 +107,6 @@
     <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="420">
   </picture>
 </p>
-<br>
 
 <!-- 🔥 MODERN CATEGORY CARDS -->
 
