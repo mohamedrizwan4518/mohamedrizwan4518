@@ -108,16 +108,29 @@
   </picture>
 </p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>🟦 Languages</b><br><br>
-      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-    </td>
+<td align="center" width="25%">
+      
+      <!-- 🔥 Attractive Gradient Title -->
+      <p align="center">
+        <span style="
+          font-size: 26px;
+          font-weight: bold;
+          background: linear-gradient(90deg, #00F7FF, #007BFF, #8A2BE2);
+          -webkit-background-clip: text;
+          -webkit-text-fill-color: transparent;
+        ">
+          🟦 Languages
+        </span>
+      </p>
+      <br>
+
+      <!-- 🚀 Bigger Modern Badges -->
+      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
     <td align="center" width="25%">
       <b>🔧 Version Control</b><br><br>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
