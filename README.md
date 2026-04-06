@@ -31,7 +31,7 @@
 
 <h1>🚀 MOHAMED RIZWAN</h1>
 
-<h3 align=centre>🧠 AI & Data Science Innovator</h3>
+<h3 align=center>🧠 AI & Data Science Innovator</h3>
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Creating+Future+Tech;Building+Smart+Systems;Solving+Real-World+Problems" />
