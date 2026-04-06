@@ -20,83 +20,89 @@
   <img src="https://img.shields.io/badge/AI_ENGINE-ACTIVE-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF&color=6C63FF"/>
   <img src="https://img.shields.io/badge/STATUS-INNOVATING-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&color=00F7FF"/>
 </p>
-
-<h2 align="center">👨‍💻 About Me</h2>
+<h1 align="center">👨‍💻 About Me</h1>
 
 <table align="center" width="100%">
 <tr>
 
-<!-- 🔥 LEFT SIDE (PREMIUM CARD STYLE) -->
+<!-- 🔥 LEFT SIDE (BIG HERO STYLE) -->
 
 <td width="55%" valign="top">
 
 <div align="center">
 
-<h1>🚀 Mohamed Rizwan</h1>
+<h1>🚀 MOHAMED RIZWAN</h1>
+
+<h3>🧠 AI & Data Science Innovator</h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Innovator;Building+Intelligent+Systems;Solving+Real-World+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Solving+Real-World+Problems;Creating+Future+Tech" />
 </p>
 
 <p>
-🧠 <b>AI & Data Science Innovator</b><br>
-<sub>Crafting intelligent solutions for real-world impact</sub>
+<sub>Crafting intelligent solutions with real-world impact 🚀</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=250"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&width=350"/>
 </p>
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=320"/>
-</p>
+<br>
 
+<h3>⚡ Exploring</h3>
 <p>
-⚡ <b>Exploring</b><br>
 <code>AI • Machine Learning • Automation</code>
 </p>
 
+<h3>🌐 Crafting</h3>
 <p>
-🌐 <b>Crafting</b><br>
 <code>Modern Web Experiences • Smart Applications</code>
 </p>
 
+<h3>🤝 Open To</h3>
 <p>
-🤝 <b>Open To</b><br>
 <code>Collaborations • Hackathons • Innovation</code>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=220"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=250"/>
 </p>
 
 <p align="center">
-💡 <i>Turning Ideas into Intelligent Reality</i>
+💡 <b><i>Turning Ideas into Intelligent Reality</i></b>
 </p>
 
 </td>
 
-<!-- 🔥 RIGHT SIDE (ANIMATED + GLOW STYLE) -->
+<!-- 🔥 RIGHT SIDE (BIG VISUAL + CLEAN) -->
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-<p align="center">
-🚀 <b>Building Intelligent Systems</b><br>
-<sub>🧠 AI • 🌐 Web • ⚡ Innovation</sub>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+
+<br><br>
+
+<h3>🚀 Tech in Motion</h3>
+
+<p>
+🧠 AI Systems <br>
+🌐 Web Development <br>
+⚡ Smart Innovation
 </p>
 
 <br>
 
-<p align="center">
-✨ Always Learning • Always Creating ✨
+<p>
+✨ <i>Learning • Building • Evolving</i>
 </p>
+
 </td>
 
 </tr>
 </table>
+
 
 
 
