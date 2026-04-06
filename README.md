@@ -94,20 +94,84 @@
 </tr>
 </table>
 
+<h1 align="center">🛠️ Skills & Tech Stack</h1>
 
+<p align="center">
+✨ Technologies I Use to Build Smart Solutions ✨
+</p>
 
+<br>
 
+<!-- 🔥 MAIN SKILL ICON STRIP -->
 
-## 🧠 CORE SKILLS
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,nodejs,mongodb,mysql,tensorflow,pytorch,git,github,vscode&theme=dark" />
+</p>
 
-```diff
-+ Python | Machine Learning | AI
-+ HTML | CSS | JavaScript
-+ Data Analysis | Visualization
-+ Git | GitHub | Problem Solving
-```
+<br>
 
----
+<!-- 🔥 MODERN GRID STYLE -->
+
+<table align="center" width="100%">
+
+<tr>
+<td align="center">
+
+### 🧠 AI & Data Science
+
+💡 Machine Learning • Deep Learning • Data Analysis
+📊 TensorFlow • PyTorch • OpenCV
+
+</td>
+
+<td align="center">
+
+### 🌐 Web Development
+
+⚡ HTML • CSS • JavaScript
+🚀 Responsive UI • Frontend Design
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚙️ Tools & Platforms
+
+🔧 Git • GitHub • VS Code
+☁️ Firebase • Power BI
+
+</td>
+
+<td align="center">
+
+### 🚀 Technologies
+
+💻 Python • SQL • MongoDB
+📡 Automation • IoT Basics
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+### 🌍 Deployment & Hosting
+
+🚀 Vercel • Netlify • Streamlit • Hugging Face
+
+</td>
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+💡 <i>Transforming Skills into Real-World Solutions</i>
+</p>
+
 
 ## 🚀 LIVE PROJECT ZONE
 
