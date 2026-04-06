@@ -23,20 +23,48 @@
 
 ---
 
-<h2 align="center">⚡ SYSTEM PROFILE</h2>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/NAME-MOHAMED%20RIZWAN-00F7FF?style=for-the-badge&color=00F7FF&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/ROLE-AI%20%26%20DATA%20SCIENCE-00F7FF?style=for-the-badge&labelColor=000000"/>
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="55%" valign="top">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS%20%7C%20WEB%20%7C%20AUTOMATION-00F7FF?style=for-the-badge&labelColor=000000"/>
-</p>
+### 🚀 Mohamed Rizwan  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING%20%7C%20GROWING-00F7FF?style=for-the-badge&labelColor=000000"/>
-</p>
+🧠 **AI & Data Science Innovator**  
+Building intelligent systems that solve real-world problems  
+
+---
+
+⚡ **Currently Exploring**  
+• Artificial Intelligence & Machine Learning  
+• Smart Automation Systems  
+
+---
+
+🌐 **What I Do**  
+• Web Development (Modern UI/UX)  
+• AI-Based Projects  
+• Problem Solving  
+
+---
+
+🤝 **Open To**  
+Collaborations • Hackathons • Innovation Projects  
+
+---
+
+💡 *"Turning Ideas into Intelligent Reality"*  
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ## 🧠 CORE SKILLS
 
