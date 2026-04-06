@@ -72,12 +72,16 @@
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 
-<br><br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=300"/>
+🚀 <b>Building Intelligent Systems</b><br>
+<sub>🧠 AI • 🌐 Web • ⚡ Innovation</sub>
 </p>
 
+<br>
+
+<p align="center">
+✨ Always Learning • Always Creating ✨
+</p>
 </td>
 
 </tr>
