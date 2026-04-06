@@ -11,15 +11,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-SYSTEM%20ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/STATUS-INNOVATING-000000?style=for-the-badge&color=00F7FF"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2"/>
-</p>
-
-<p align="center">
   <b>⚡ AI SYSTEM ACTIVE ⚡</b><br>
   <sub>Building intelligent solutions for real-world impact</sub>
 </p>
