@@ -40,8 +40,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&width=350"/>
 </p>
 
-<br>
-
 <h3>⚡ Exploring</h3>
 <p>
 <code>AI • Machine Learning • Automation • Web Design • Data Science</code>
