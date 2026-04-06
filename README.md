@@ -76,7 +76,7 @@
 <br></br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:6C63FF&height=90&section=header&text=%20🧠%20🤖%20💻%20🌐%20📊%20⚡%20🚀%20🛰️%20&fontSize=28&animation=twinkling&fontAlign=50"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=1200&pause=300&color=00F7FF&center=true&vCenter=true&width=600&lines=🧠+🤖+💻+🌐+📊+⚡+🚀+🛰️" />
 </p>
 
 <p align="center">
