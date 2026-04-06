@@ -102,14 +102,13 @@
 
 <br>
 
-<!-- 🔥 ANIMATED SKILL VISUAL -->
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Skills Animation" src="./Skills_Animation_White.gif" width="420">
+  </picture>
+</p>
 <br>
 
 <!-- 🔥 MODERN CATEGORY CARDS -->
