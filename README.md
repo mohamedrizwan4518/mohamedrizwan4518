@@ -70,8 +70,7 @@
 
 <td width="45%" align="center">
 
-<img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>)
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 <p align="center">
 🚀 <b>Building Intelligent Systems</b><br>
 <sub>🧠 AI • 🌐 Web • ⚡ Innovation</sub>
