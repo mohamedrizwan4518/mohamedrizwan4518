@@ -81,6 +81,14 @@
 ✨ <i>Learning • Building • Evolving</i> ✨
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&width=350"/>
+</p>
+
+<p align="center">
+💡 <b>Turning Ideas into Intelligent Reality</b>
+</p>
+
 </td>
 
 </tr>
