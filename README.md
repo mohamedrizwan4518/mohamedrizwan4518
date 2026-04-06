@@ -1,4 +1,4 @@
-[[[<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
+<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedrizwan4518/mohamedrizwan4518/main/HEADER.png" width="100%" />
@@ -108,30 +108,34 @@
 <table align="center">
   <tr>
     <td align="center" width="25%">
-      <b>🟦 Languages</b><br><br>
+      <b>🖥️ Languages</b><br><br>
       <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="5%">
       <b>🔧 Version Control</b><br><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+</p>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="30%">
       <b>🎨 Design</b><br><br>
-      <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lizard-8B4513?style=flat-square&logo=lizard&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-%23117BAC.svg?style=flat-square&logo=WordPress&logoColor=white" />
-      <img src="https://img.shields.io/badge/Lovable.ai-FF4B4B?style=flat-square&logo=lovable&logoColor=white" />
-      <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=flat-square&logo=Balsamiq&logoColor=white" />
+      <p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/WordPress-117BAC?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Lovable.ai-FF4B4B?style=for-the-badge" />
+</p>
     </td>
     <td align="center" width="25%">
       <b>💻 IDEs & Editors</b><br><br>
