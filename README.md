@@ -7,7 +7,12 @@
 <!-- ⚡ UNIQUE TYPING STYLE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=>+Initializing+Profile...;+Loading+AI+Modules...;+Booting+Intelligent+System...;+Welcome,I'm+Mohamed+Rizwan" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=120&section=header&text=MOHAMED%20RIZWAN&fontColor=00F7FF&fontSize=30&animation=blinking"/>
+</p>
+
+<p align="center">
+  <b>⚡ AI SYSTEM ACTIVE ⚡</b><br>
+  <sub>Building intelligent solutions for real-world impact</sub>
 </p>
 
 <p align="center">
