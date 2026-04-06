@@ -102,15 +102,15 @@
 
 <br>
 
-<picture align=center>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
+<!-- 🔥 ANIMATED SKILL VISUAL -->
+
+<p align="center">
+  <img src="./Skills_Animation_Dark.gif" width="420"/>
+</p>
 
 <br>
 
-<!-- 🔥 MODERN GRID STYLE -->
+<!-- 🔥 MODERN CATEGORY CARDS -->
 
 <table align="center" width="100%">
 
@@ -119,8 +119,8 @@
 
 ### 🧠 AI & Data Science
 
-💡 Machine Learning • Deep Learning • Data Analysis
-📊 TensorFlow • PyTorch • OpenCV
+🧠 Machine Learning • Deep Learning
+📊 TensorFlow • OpenCV • Scikit-learn
 
 </td>
 
@@ -128,8 +128,8 @@
 
 ### 🌐 Web Development
 
-⚡ HTML • CSS • JavaScript
-🚀 Responsive UI • Frontend Design
+💻 HTML • CSS • JavaScript
+⚡ Responsive UI • Frontend Design
 
 </td>
 </tr>
@@ -140,7 +140,7 @@
 ### ⚙️ Tools & Platforms
 
 🔧 Git • GitHub • VS Code
-☁️ Firebase • Power BI
+☁️ Firebase • Google Colab
 
 </td>
 
@@ -148,8 +148,8 @@
 
 ### 🚀 Technologies
 
-💻 Python • SQL • MongoDB
-📡 Automation • IoT Basics
+🐍 Python • 🗄️ SQL • 🍃 MongoDB
+📡 Automation • IoT
 
 </td>
 </tr>
@@ -157,7 +157,7 @@
 <tr>
 <td colspan="2" align="center">
 
-### 🌍 Deployment & Hosting
+### 🌍 Deployment
 
 🚀 Vercel • Netlify • Streamlit • Hugging Face
 
@@ -169,7 +169,7 @@
 <br>
 
 <p align="center">
-💡 <i>Transforming Skills into Real-World Solutions</i>
+✨ <i>Learning • Building • Evolving</i> ✨
 </p>
 
 
