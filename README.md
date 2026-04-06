@@ -1,4 +1,4 @@
-<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
+[[<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedrizwan4518/mohamedrizwan4518/main/HEADER.png" width="100%" />
@@ -21,40 +21,45 @@
   <img src="https://img.shields.io/badge/STATUS-INNOVATING-00F7FF?style=for-the-badge"/>
 </p>
 
----
-
 <h2 align="center">👨‍💻 About Me</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="55%" valign="top">
 
-### 🚀 Mohamed Rizwan  
+<h2>🚀 Mohamed Rizwan</h2>
 
-🧠 **AI & Data Science Innovator**  
-Building intelligent systems that solve real-world problems  
+<p>
+🧠 <b>AI & Data Science Innovator</b><br>
+<span style="color:gray;">Building intelligent systems for real-world impact</span>
+</p>
 
----
+<br>
 
-⚡ **Currently Exploring**  
-• Artificial Intelligence & Machine Learning  
-• Smart Automation Systems  
+<p>
+⚡ <b>Exploring</b><br>
+<span>AI • Machine Learning • Automation</span>
+</p>
 
----
+<br>
 
-🌐 **What I Do**  
-• Web Development (Modern UI/UX)  
-• AI-Based Projects  
-• Problem Solving  
+<p>
+🌐 <b>Crafting</b><br>
+<span>Modern Web Experiences & Smart Applications</span>
+</p>
 
----
+<br>
 
-🤝 **Open To**  
-Collaborations • Hackathons • Innovation Projects  
+<p>
+🤝 <b>Open To</b><br>
+<span>Collaborations • Hackathons • Creative Projects</span>
+</p>
 
----
+<br>
 
-💡 *"Turning Ideas into Intelligent Reality"*  
+<p align="center">
+  <i>💡 Turning Ideas into Intelligent Reality</i>
+</p>
 
 </td>
 
@@ -139,3 +144,4 @@ Collaborations • Hackathons • Innovation Projects
 <p align="center">
   ⚡ "Turning Ideas into Intelligent Reality"
 </p>
+](url)](url)
