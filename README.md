@@ -188,68 +188,131 @@
   </tr>
 </table>
 
+<h1 align="center">🏆 Achievements</h1>
 
-## 🚀 LIVE PROJECT ZONE
+<table align="center" width="100%">
+<tr>
 
-🔴 **Silent SOS (Upcoming)**
-→ Smart emergency app with AI detection
+<td align="center">
+  <img src="https://img.shields.io/badge/Green%20Olympiad-2nd%20Place-00C9FF?style=for-the-badge" />
+</td>
 
-🟢 **Gesture Bluetooth Speaker**
-→ Control devices using hand gestures
+<td align="center">
+  <img src="https://img.shields.io/badge/National%20Silver%20Medalist-2018-8E2DE2?style=for-the-badge" />
+</td>
 
-🔵 **Portfolio Website**
-→ Modern UI + animations
+</tr>
 
-🟣 **AI Rockfall Prediction (SIH’25)**
-→ Safety system using AI
+<tr>
 
----
+<td align="center">
+  <img src="https://img.shields.io/badge/Fit%20India-Award-FF6A00?style=for-the-badge" />
+</td>
 
-## 📊 PERFORMANCE METRICS
+<td align="center">
+  <img src="https://img.shields.io/badge/Learnathon-ICT%20Excellence-00B894?style=for-the-badge" />
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" align="center">
+  <img src="https://img.shields.io/badge/Puduvai%20Fest-2×%20Silver%20(AISDC×UNESCO)-FF3CAC?style=for-the-badge" />
+</td>
+
+</tr>
+
+</table>
+
+<h1 align="center">📜 Certifications</h1>
+
+<table align="center" width="100%">
+<tr>
+
+<td align="center">
+  <img src="https://img.shields.io/badge/Python%20Full%20Stack-FITA%20Academy-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</td>
+
+<td align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20AI-Foundations%20of%20AI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  <img src="https://img.shields.io/badge/AI%20Agents%20Course-Google%20%26%20Kaggle-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</td>
+
+<td align="center">
+  <img src="https://img.shields.io/badge/UiPath-Automation%20Developer%20Associate-F15B2A?style=for-the-badge&logo=uipath&logoColor=white" />
+</td>
+
+</tr>
+
+</table>
+
+<h1 align="center">📊 GitHub Stats</h1>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohamedrizwan4518&show_icons=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true&include_all_commits=true&count_private=true" 
+        height="180"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img 
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohamedrizwan4518&layout=compact&bg_color=0d1117&title_color=a855f7&text_color=ffffff&icon_color=a855f7&hide_border=true" 
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrizwan4518&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrizwan4518&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=mohamedrizwan4518&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
----
+<h1 align="center">🤝 Connect With Me</h1>
 
-## 🧬 CONTRIBUTION MATRIX
+<table align="center">
+<tr>
+
+<td align="center">
+<a href="mailto:mohamedrizwan4518@gmail.com">
+  <img src="./gmail.png" width="60"/><br>
+  <b>Email</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/mohamedrizwan4518">
+  <img src="./github.png" width="60"/><br>
+  <b>GitHub</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="./linkedin.png" width="60"/><br>
+  <b>LinkedIn</b>
+</a>
+</td>
+
+<td align="center">
+<a href="https://mdrizwan27.netlify.app">
+  <img src="./www.png" width="60"/><br>
+  <b>Portfolio</b>
+</a>
+</td>
+
+</tr>
+</table>
 
 <p align="center">
-  <img src="https://github.com/mohamedrizwan4518/mohamedrizwan4518/raw/output/github-contribution-grid-snake.svg"/>
+✨ <i>Let’s connect and build something amazing together!</i> ✨
 </p>
-
----
-
-## 🧠 PHILOSOPHY
-
-> “Technology should not just exist… it should solve real problems.”
-
----
-
-## 🌐 CONNECT
-
-<p align="center">
-  <a href="https://mdrizwan27.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-00F7FF?style=for-the-badge"/>
-  </a>
-  <a href="mailto:mohamedrizwan4518@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-00F7FF?style=for-the-badge"/>
-  </a>
-</p>
-
----
-
-<!-- 🔥 CLEAN FUTURE LINE -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2"/>
-</p>
-
-<p align="center">
-  ⚡ "Turning Ideas into Intelligent Reality"
-</p>
-](url)](url)
-](url)
