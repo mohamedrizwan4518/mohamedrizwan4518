@@ -66,13 +66,13 @@
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-POWERED-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/BUILDING-FUTURE-00F7FF?style=for-the-badge"/>
+🚀 <b>Building Intelligent Systems</b><br>
+<sub>AI • Innovation • Future Tech</sub>
 </p>
 
 </td>
