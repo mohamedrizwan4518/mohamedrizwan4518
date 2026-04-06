@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000000?style=for-the-badge&color=00F7FF"/>
   <img src="https://img.shields.io/badge/AI-ENGINE%20ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/STATUS-INNOVATING-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-INNOVATING-000000?style=for-the-badge&color=00F7FF"/>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
