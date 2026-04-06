@@ -30,12 +30,24 @@
 
 <td width="55%" valign="top">
 
-<h2>🚀 Mohamed Rizwan</h2>
+<div align="center">
+
+<h1>🚀 Mohamed Rizwan</h1>
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Innovator;Building+Intelligent+Systems;Solving+Real-World+Problems" />
+</p>
 
 <p>
 🧠 <b>AI & Data Science Innovator</b><br>
-<sub>Building intelligent systems that solve real-world problems</sub>
+<sub>Crafting intelligent solutions for real-world impact</sub>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=250"/>
+</p>
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=320"/>
