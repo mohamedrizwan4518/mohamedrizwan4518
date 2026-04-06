@@ -25,40 +25,32 @@
 <table align="center" width="100%">
 <tr>
 
-<!-- 🔥 LEFT SIDE (BIG HERO STYLE) -->
+<!-- 🔥 LEFT SIDE -->
 
 <td width="55%" valign="top">
-
-<div align="center">
 
 <h1>🚀 MOHAMED RIZWAN</h1>
 
 <h3>🧠 AI & Data Science Innovator</h3>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Solving+Real-World+Problems;Creating+Future+Tech" />
-</p>
-
-<p>
-<sub>Crafting intelligent solutions with real-world impact 🚀</sub>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=Creating+Future+Tech;Building+Smart+Systems;Solving+Real-World+Problems" />
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=4&width=350"/>
 </p>
 
-</div>
-
 <br>
 
 <h3>⚡ Exploring</h3>
 <p>
-<code>AI • Machine Learning • Automation</code>
+<code>AI • Machine Learning • Automation • Web Design • Data Science</code>
 </p>
 
 <h3>🌐 Crafting</h3>
 <p>
-<code>Modern Web Experiences • Smart Applications</code>
+<code>Modern Web Experiences • Smart Applications • IoT Projects</code>
 </p>
 
 <h3>🤝 Open To</h3>
@@ -71,30 +63,26 @@
 </p>
 
 <p align="center">
-💡 <b><i>Turning Ideas into Intelligent Reality</i></b>
+💡 <b><i>Building Intelligent Solutions for Real-World Impact</i></b>
 </p>
 
 </td>
 
-<!-- 🔥 RIGHT SIDE (BIG VISUAL + CLEAN) -->
+<!-- 🔥 RIGHT SIDE -->
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
 
 <br><br>
 
-<h3>🚀 Tech in Motion</h3>
-
-<p>
-🧠 AI Systems <br>
-🌐 Web Development <br>
-⚡ Smart Innovation
+<p align="center">
+🧠 AI Systems • 🌐 Web Development • ⚡ Smart Innovation
 </p>
 
 <br>
 
-<p>
+<p align="center">
 ✨ <i>Learning • Building • Evolving</i>
 </p>
 
@@ -102,6 +90,7 @@
 
 </tr>
 </table>
+
 
 
 
