@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-000000?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/AI-ENGINE%20ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
-  <img src="https://img.shields.io/badge/STATUS-INNOVATING-000000?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-0d1117?style=for-the-badge&logo=linux&logoColor=00F7FF&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/AI_ENGINE-ACTIVE-0d1117?style=for-the-badge&logo=python&logoColor=00F7FF&color=6C63FF"/>
+  <img src="https://img.shields.io/badge/STATUS-INNOVATING-0d1117?style=for-the-badge&logo=github&logoColor=00F7FF&color=00F7FF"/>
 </p>
 
 <h2 align="center">👨‍💻 About Me</h2>
