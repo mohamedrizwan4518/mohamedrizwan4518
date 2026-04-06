@@ -76,10 +76,8 @@
 <br><br>
 
 <p align="center">
-🧠 AI Systems • 🌐 Web Development • ⚡ Smart Innovation
+🧠 AI Systems •🌐 Web Development •⚡ Smart Innovation
 </p>
-
-<br>
 
 <p align="center">
 ✨ <i>Learning • Building • Evolving</i>
