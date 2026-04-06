@@ -75,7 +75,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-ENGINE-ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/AI%20ENGINE-ACTIVE-black?style=for-the-badge&color=00F7FF"/>
 </p>
 
 <p align="center">
