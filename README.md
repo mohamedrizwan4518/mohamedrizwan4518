@@ -75,12 +75,11 @@
 <br><br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20ENGINE-ACTIVE-black?style=for-the-badge&color=00F7FF"/>
+  ⚡ AI System Active • 🚀 Building Future Tech • 🧠 Innovation Mode
 </p>
 
 <p align="center">
-🚀 <b>Building Intelligent Systems</b><br>
-<sub>AI • Innovation • Future Tech</sub>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=300"/>
 </p>
 
 </td>
