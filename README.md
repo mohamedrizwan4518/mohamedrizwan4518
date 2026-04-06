@@ -75,10 +75,6 @@
 <br><br>
 
 <p align="center">
-  ⚡ AI System Active • 🚀 Building Future Tech • 🧠 Innovation Mode
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=300"/>
 </p>
 
