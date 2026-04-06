@@ -7,7 +7,16 @@
 <!-- ⚡ UNIQUE TYPING STYLE -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00F7FF&height=120&section=header&text=MOHAMED%20RIZWAN&fontColor=00F7FF&fontSize=30&animation=blinking"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2200&pause=800&color=00F7FF&center=true&vCenter=true&width=750&lines=⚡+Welcome,+I'm+Mohamed+Rizwan;🚀+AI+System+Initializing...;🧠+Building+Intelligent+Solutions;🔥+Innovation+Mode:+ON" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-SYSTEM%20ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
+  <img src="https://img.shields.io/badge/STATUS-INNOVATING-000000?style=for-the-badge&color=00F7FF"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2"/>
 </p>
 
 <p align="center">
