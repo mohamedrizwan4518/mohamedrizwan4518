@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-MODE-ACTIVE-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ENGINE%20ACTIVE-000000?style=for-the-badge&color=00F7FF"/>
   <img src="https://img.shields.io/badge/STATUS-INNOVATING-00F7FF?style=for-the-badge"/>
 </p>
 
