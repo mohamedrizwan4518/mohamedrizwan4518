@@ -7,7 +7,13 @@
 <!-- ⚡ UNIQUE TYPING STYLE -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=650&lines=AI+Engineer+in+Progress...;Building+Smart+Systems...;Creating+Real-World+Impact...;Welcome+to+My+Digital+Space..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=>+Initializing+Profile...;+Loading+AI+Modules...;+Booting+Intelligent+System...;+Welcome,+Mohamed+Rizwan" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F7FF?style=for-the-badge&logo=power&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AI-MODE-ACTIVE-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-INNOVATING-00F7FF?style=for-the-badge"/>
 </p>
 
 ---
