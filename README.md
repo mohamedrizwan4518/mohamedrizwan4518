@@ -1,7 +1,7 @@
 ![Header](./HEADER.png)
 
 ---
-![visitors](https://vbr.nathanchung.dev/badge?page_id=mohamedrizwan4518.mohamedrizwan4518&color=00cf00)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=mohamedrizwan4518.mohamedrizwan4518color=55acb7&style=for-the-badge&logo=Github&text=Visitors)
 
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="27"/> 𝗜'𝗺 Rubini T✨ 
