@@ -1,4 +1,4 @@
-[[<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
+[[[<!-- 🔥 FUTURISTIC MINIMAL HEADER -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedrizwan4518/mohamedrizwan4518/main/HEADER.png" width="100%" />
@@ -25,51 +25,61 @@
 
 <table align="center" width="100%">
 <tr>
+
+<!-- 🔥 LEFT SIDE (MODERN CARD STYLE) -->
+
 <td width="55%" valign="top">
 
 <h2>🚀 Mohamed Rizwan</h2>
 
 <p>
 🧠 <b>AI & Data Science Innovator</b><br>
-<span style="color:gray;">Building intelligent systems for real-world impact</span>
+<sub>Building intelligent systems that solve real-world problems</sub>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=2&width=300"/>
+</p>
 
 <p>
 ⚡ <b>Exploring</b><br>
-<span>AI • Machine Learning • Automation</span>
+<code>AI • Machine Learning • Automation</code>
 </p>
-
-<br>
 
 <p>
 🌐 <b>Crafting</b><br>
-<span>Modern Web Experiences & Smart Applications</span>
+<code>Modern Web Experiences • Smart Applications</code>
 </p>
-
-<br>
 
 <p>
 🤝 <b>Open To</b><br>
-<span>Collaborations • Hackathons • Creative Projects</span>
+<code>Collaborations • Hackathons • Innovation</code>
 </p>
 
-<br>
-
 <p align="center">
-  <i>💡 Turning Ideas into Intelligent Reality</i>
+💡 <i>Turning Ideas into Intelligent Reality</i>
 </p>
 
 </td>
+
+<!-- 🔥 RIGHT SIDE (UPGRADED VISUAL STYLE) -->
 
 <td width="45%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+
+<br><br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-POWERED-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BUILDING-FUTURE-00F7FF?style=for-the-badge"/>
+</p>
 
 </td>
+
 </tr>
 </table>
+
 
 ## 🧠 CORE SKILLS
 
@@ -145,3 +155,4 @@
   ⚡ "Turning Ideas into Intelligent Reality"
 </p>
 ](url)](url)
+](url)
