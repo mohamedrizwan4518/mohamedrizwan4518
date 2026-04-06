@@ -23,16 +23,20 @@
 
 ---
 
-## ⚡ SYSTEM PROFILE
+<h2 align="center">⚡ SYSTEM PROFILE</h2>
 
-```yaml
-Name: Mohamed Rizwan
-Role: AI & Data Science Student
-Focus: Intelligent Systems + Web + Automation
-Status: Learning | Building | Growing 🚀
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/NAME-MOHAMED%20RIZWAN-00F7FF?style=for-the-badge&color=00F7FF&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ROLE-AI%20%26%20DATA%20SCIENCE-00F7FF?style=for-the-badge&labelColor=000000"/>
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-INTELLIGENT%20SYSTEMS%20%7C%20WEB%20%7C%20AUTOMATION-00F7FF?style=for-the-badge&labelColor=000000"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%7C%20BUILDING%20%7C%20GROWING-00F7FF?style=for-the-badge&labelColor=000000"/>
+</p>
 
 ## 🧠 CORE SKILLS
 
